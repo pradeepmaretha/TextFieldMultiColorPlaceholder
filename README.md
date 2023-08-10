@@ -4,9 +4,9 @@ This is for UITextField, provides placeholder colour and red "*" for required fi
 select textField from storyboard and assign class
 
 
+![Screenshot 2023-08-10 at 12 35 40 PM](https://github.com/pradeepmaretha/TextFieldWithPlaceholder/assets/19723646/84a8408e-ffcb-4649-9991-3484f4bd7d90)
 
 
-![Screenshot 2023-08-10 at 12 21 05 PM](https://github.com/pradeepmaretha/TextFieldWithPlaceholder/assets/19723646/37906335-0d4f-48e1-b908-a7dd710a5c1a)
 
 
 Change your color
