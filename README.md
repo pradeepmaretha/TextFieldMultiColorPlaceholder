@@ -1,4 +1,4 @@
-# TextFieldWithPlaceholder
+# TextFieldMultiColorPlaceholder
 This is for UITextField, provides placeholder colour and red "*" for required field.
 
 select textField from storyboard and assign class
