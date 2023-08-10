@@ -1,5 +1,5 @@
 //
-//  TextFieldWithPlaceholder.swift
+//  TextFieldMultiColorPlaceholder.swift
 //  Test Task
 //
 //  Created by Pradeep Maretha on 10/08/23.
@@ -7,7 +7,7 @@
 
 import Foundation
 import UIKit
-class TextFieldWithPlaceholder:UITextField{
+class TextFieldMultiColorPlaceholder:UITextField{
     
     @IBInspectable public var placeHolderColor: UIColor = UIColor.black
     @IBInspectable var isRequired:Bool = true{
